@@ -1,2 +1,4 @@
 # odin1
-Hello Odin!
+Goal 1: HTML and CSS Basics
+
+Recipe Website from Odin Project Training
